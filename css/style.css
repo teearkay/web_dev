@@ -1,0 +1,29 @@
+.navbar{ background:#F97300;}
+
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+
+.nav-link{ margin-right: 1em !important;}
+
+.nav-link:hover{ background: #f4f4f4; color: #f97300; }
+
+.navbar-collapse{ justify-content: flex-end;}
+
+.navbar-toggler{  background:#fff !important;}
+
+.header{
+    height: 600px;
+    background-size: cover;
+    background-image: url('../img/milky-way-2695569_720.jpg');
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.header .description{
+    color: red;
+    text-align: center;
+    background-color: whitesmoke;
+    margin-left: 150px;
+    margin-right: 150px;
+    opacity: 100%;
+    padding: 100px;
+}
